@@ -35,7 +35,38 @@ discord: 이상규#4968
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leo82380&show_icons=true&theme=radical)
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=200&section=footer&text=김민혁&fontSize=100)
+
 # 김민혁
+
+>개념
+
+김민혁은 2007년 출생해버린 토종 한국인중 한명으로서
+
+현재 게임개발자라는 꿈을 위해 의욕을 다지고있는 한 청소년을 의미한다.
+
+>출생
+
+경기도 수원시
+
+>출신초
+
+동수원초등학교/원천초등학교
+
+>출신중
+
+동수원중학교
+
+>진화과정
+
+유아기때는 궁금증이 많고 에너지가 넘쳤던 김민혁
+
+하지만 성장하며 읽었던 많은양의 도서들로 인해 사회의 무서움을
+
+ 간접적으로 느끼게되어 후천적으로 소심한 성격을 가지게 되었다
+
+현재는 조금씩 과거의 모습을 되찾고 있다는 소문이 전해져온다
+
+discord:  소설#3701
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=novelbug&show_icons=true&theme=radical)
 
