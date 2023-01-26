@@ -30,6 +30,8 @@
 
 현재는 목소리만 잃은 어엿한 고등학생으로 진화하였다.
 
+discord:이상규#4968
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leo82380&show_icons=true&theme=radical)
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=200&section=footer&text=김민혁&fontSize=100)
