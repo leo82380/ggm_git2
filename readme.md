@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=4e63d6&height=200&section=header&text=이상규&fontSize=50&animation=fadeIn&fontColor=DDDDDD)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=이상규&fontSize=100)
 # 이상규
 
 >개념
@@ -32,7 +32,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leo82380&show_icons=true&theme=radical)
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=4e63d6&height=200&section=header&text=김민혁&fontSize=50&animation=fadeIn&fontColor=DDDDDD)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=김민혁&fontSize=100)
 # 김민혁
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=novelbug&show_icons=true&theme=radical)
