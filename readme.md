@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=4e63d6&height=200&section=header&text=이상규&fontSize=50&animation=fadeIn&fontColor=DDDDDD)
-ff
+이름:이상규
 
 >개념
 
@@ -13,7 +13,11 @@ ff
 
 >출신초
 
-청일초
+청일초등학교
+
+>출신중
+
+청일중학교
 
 >진화과정
 
