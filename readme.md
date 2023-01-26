@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=footer&text=이상규&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=footer&text=이상규&fontSize=100)
 # 이상규
 
 >개념
