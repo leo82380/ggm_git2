@@ -32,7 +32,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leo82380&show_icons=true&theme=radical)
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=김민혁&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=200&section=footer&text=김민혁&fontSize=100)
 # 김민혁
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=novelbug&show_icons=true&theme=radical)
