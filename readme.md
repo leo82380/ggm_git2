@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=4e63d6&height=200&section=header&text=이상규&fontSize=50&animation=fadeIn&fontColor=DDDDDD)
-이름:이상규
+# 이상규
 
 >개념
 
@@ -33,8 +33,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leo82380&show_icons=true&theme=radical)
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=4e63d6&height=200&section=header&text=김민혁&fontSize=50&animation=fadeIn&fontColor=DDDDDD)
-이름:김민혁
+# 김민혁
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=novelbug&show_icons=true&theme=radical)
+
+# 다닐 학교
+
+![image](https://user-images.githubusercontent.com/123617758/214807923-11293e10-89a4-46a7-84ca-04409e95132b.png)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleo82380%2Fggm_git2&count_bg=%235AB6E8&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)
